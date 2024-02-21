@@ -25,7 +25,7 @@ Git installed (optional)
 Installation
 Clone this repository to your local machine using the following command:
 
-```git clone <repository-url>```
+```git clone git@github.com:Developer-Amit/wiki-search-tool.git```
 
 
 Navigate to the project directory:
